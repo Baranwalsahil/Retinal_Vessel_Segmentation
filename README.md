@@ -4,3 +4,5 @@ The vessels of retina in very important mark for curing various cardiovascular a
 We have used publicly available DRIVE dataset in which we have training and test dataset . Training consists of 20 fundus images of different retina images ,  20 ground truth vessel segmented images and 20 masks of retina fundus. In the test dataset also we have same configuration of images where we have to predict over 20 images.
 
 AUC_ROC_SCORE for U-net model is 0.9805 and for ResU-Net model is 0.9812.
+
+https://desireai.com/resu-net-retinal-vessel-segmentation/
